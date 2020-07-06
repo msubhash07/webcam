@@ -1,0 +1,25 @@
+.actionBtn {
+  margin-top: 5px;
+  margin-bottom: 2px;
+  font-size: 1.2em;
+}
+
+.snapshot {
+  text-align: center;
+  img {
+    max-width: 800px;
+    max-height: 800px;
+  }
+}
+
+ul.links {
+  padding-bottom: 20px;
+}
+
+
+.custom-styles{
+    display: inline-block !important;
+    position: fixed !important;
+    right: 0 !important;
+    bottom: 0 !important;
+}
